@@ -39,7 +39,7 @@
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.4"
-        app:srcCompat="@drawable/tax2" />
+        app:srcCompat="@drawable/icons8_money_100" />
 
     <ImageView
         android:id="@+id/imageView5"
@@ -52,7 +52,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/tax" />
+        app:srcCompat="@drawable/icons8_tax_100" />
 
     <Button
         android:id="@+id/button1"
@@ -120,7 +120,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider2"
         app:layout_constraintVertical_bias="0.894"
-        app:srcCompat="@drawable/about" />
+        app:srcCompat="@drawable/icons8_info_100" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -132,7 +132,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider2"
         app:layout_constraintVertical_bias="0.863"
-        app:srcCompat="@drawable/deve" />
+        app:srcCompat="@drawable/icons8_developer_100" />
 
     <ImageView
         android:id="@+id/imageView9"
@@ -144,7 +144,7 @@
         app:layout_constraintStart_toEndOf="@+id/imageView8"
         app:layout_constraintTop_toBottomOf="@+id/divider2"
         app:layout_constraintVertical_bias="0.891"
-        app:srcCompat="@drawable/exit" />
+        app:srcCompat="@drawable/icons8_exit_100" />
 
     <TextView
         android:id="@+id/textView4"

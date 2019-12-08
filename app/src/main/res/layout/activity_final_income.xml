@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.003"
-        app:srcCompat="@drawable/tax" />
+        app:srcCompat="@drawable/icons8_tax_100" />
 
     <TextView
         android:id="@+id/textView2"
@@ -303,7 +303,7 @@
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.4"
-        app:srcCompat="@drawable/tax2" />
+        app:srcCompat="@drawable/icons8_money_100" />
 
     <Button
         android:id="@+id/goback"
